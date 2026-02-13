@@ -1,0 +1,18 @@
+id="plugin.program.natethagodwizard"
+version="2.0.7"
+zip="url.to.wizard"
+
+name="Test Build"
+version="1.0"
+url="http://your.build.url/"
+minor="http://"
+gui="http://your.guisettings.url/"
+kodi="21.3"
+theme="http://your.themes.url"
+icon="http://"
+fanart="http://"
+preview="https://www.youtube.com/watch?v=djV11Xbc914"
+adult="no"
+info="http://your.info.url"
+description="A short description of the build."
+
